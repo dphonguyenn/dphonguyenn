@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Phong, a student in Web developer major 👨‍💻  
-Take a look at [MyCV](https://dphonguyenn.github.io/my-cv/)
+Take a look at [MyCV](https://mycv-dphonguynn.netlify.app)
   
 
 <a href="https://github.com/dphonguyenn" target="_blank">
