@@ -63,6 +63,8 @@ I’m a third-year student in Information Technology at Information Ho Chi Minh 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" height="25" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" height="25" />  
 </div>  
 
 <br/>  
